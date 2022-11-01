@@ -1,4 +1,4 @@
-### Olá, sou Lauricea Dias👋
+### Olá! sou Lauricea Dias👋
 
 
 - 🔭 Estou atualmente estudando desenvolvimento web na Trybe...
