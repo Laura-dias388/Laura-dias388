@@ -1,8 +1,8 @@
-### Olá, sou Laura Dias👋
+### Olá, sou Lauricea Dias👋
 
 
 - 🔭 Estou atualmente estudando desenvolvimento web na Trybe...
-- 🤓 Estudo javaScript, React, Docker etc...
+- 🤓 Estudo JavaScript, React, Docker etc...
 - 💻 Contate-me por ldiasvitaltoledo8@gmail.com.
 - 🎮 Sonho em trabalhar com desenvolvimento de jogos.
 
