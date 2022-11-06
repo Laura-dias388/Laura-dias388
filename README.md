@@ -4,7 +4,7 @@
 - 🔭 Estou atualmente estudando desenvolvimento web na Trybe...
 - 🤓 Estudo JavaScript, React, Docker etc...
 - 💻 Contate-me por ldiasvitaltoledo8@gmail.com.
-- 🎮 Sonho em trabalhar com desenvolvimento de jogos.
+- 🎮 Minha meta é trabalhar com desenvolvimento de jogos.
 
 <div align="center">
   <a href="https://github.com/Laura-dias388">
