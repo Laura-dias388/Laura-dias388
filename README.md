@@ -3,7 +3,7 @@
 
 - 🔭 Estou atualmente estudando desenvolvimento web na Trybe...
 - 🤓 Estudo JavaScript, React, Docker etc...
-- 💻 Contate-me por ldiasvitaltoledo8@gmail.com.
+- 💻 Contate-me por lauravtdias@gmail.com.
 - 🎮 Minha meta é trabalhar com desenvolvimento de jogos.
 
 <div align="center">
