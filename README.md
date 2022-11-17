@@ -1,8 +1,8 @@
 ### Olá! sou Lauricea Dias👋
 
 
-- 🔭 Estou atualmente estudando desenvolvimento web na Trybe...
-- 🤓 Estudo JavaScript, React, Docker etc...
+- 🔭 Estou atualmente estudando desenvolvimento web na Trybe
+- 🤓 Principais stacks: React, NodeJs, Docker, SQL e Python.
 - 💻 Contate-me por lauravtdias@gmail.com.
 - 🎮 Minha meta é trabalhar com desenvolvimento de jogos.
 
