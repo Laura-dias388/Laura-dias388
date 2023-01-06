@@ -7,6 +7,8 @@
 - 🎮 Minha meta é trabalhar com desenvolvimento de jogos.
 - 🔭 Astronomia amadora.
 
+##
+
 <div align="center">
   <a href="https://github.com/Laura-dias388">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laura-dias388&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
