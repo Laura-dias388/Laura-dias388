@@ -5,7 +5,7 @@
 - 🤓 Principais stacks: React, NodeJs, Docker, SQL e Python.
 - 🛰️ Contate-me por lauravtdias@gmail.com.
 - 🎮 Minha meta é trabalhar com desenvolvimento de jogos.
-- 🔭 Atronomia amadora.
+- 🔭 Astronomia amadora.
 
 <div align="center">
   <a href="https://github.com/Laura-dias388">
