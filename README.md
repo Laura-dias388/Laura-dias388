@@ -8,6 +8,9 @@
 - 🔭 Astronomia amadora.
 
 ##
+
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-dias388&layout=compact&langs_count=7&theme=merko"/>
+</div>
   
   
 <div style="display: inline_block"><br>
