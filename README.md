@@ -36,6 +36,9 @@
   <img align="center" alt="Laura-DevIcon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" />
   <img align="center" alt="Laura-EsLint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
   <img align="center" alt="Laura-Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+  <img align="center" alt="Laura-Sequelize" height="30" width="40" src="https://github.com/Laura-dias388/Laura-dias388/assets/104790453/3ec9700f-9dd3-405c-b175-f3319532267a " />
+  <img align="center" alt="Laura-Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+          
   
           
 </div>
