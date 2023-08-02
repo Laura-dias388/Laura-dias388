@@ -10,9 +10,9 @@
 ##
 <div align="center">
   <a href="https://github.com/Laura-dias388">
-  <img height="200px" width="400em" src="https://github-readme-stats.vercel.app/api?username=Laura-dias388&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="200px" width="400em" src="https://github-readme-stats.vercel.app/api?username=Laura-dias388&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <a href="https://github.com/Laura-dias388">
-  <img height="200px" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-dias388&layout=compact&langs_count=7&theme=merko"/>
+  <img height="200px" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-dias388&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
   
 <div style="display: inline_block"><br>
