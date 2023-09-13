@@ -4,7 +4,7 @@
 - 💻 Desenvolvedora full-stack.
 - 🤓 Principais stacks: React, NodeJs, Docker, SQL e Python.
 - 🛰️ Contate-me por lauravtdias@gmail.com.
-- 🎮 Estudante autoditada, minha meta é trabalhar com desenvolvimento de jogos.
+- 🎮 Estudante de tecnologia, minha meta é trabalhar com desenvolvimento de jogos.
 - 🔭 Astronomia amadora.
 
 ##
