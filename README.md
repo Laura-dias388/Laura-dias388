@@ -4,7 +4,7 @@
 - 💻 Desenvolvedora full-stack.
 - 🤓 Principais stacks: React, NodeJs, Docker, SQL e Python.
 - 🛰️ Contate-me por lauravtdias@gmail.com.
-- 🎮 Estudante de ciências e tecnologia na UNIFEI https://unifei.edu.br/. 
+- 🎮 Estudante BCTec na UNIFEI https://unifei.edu.br/. 
 - 🔭 Astronomia amadora.
 
 ##
